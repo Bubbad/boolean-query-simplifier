@@ -1,0 +1,7 @@
+EOR.  Exp  ::= Exp "OR" Exp1 ;
+EAND. Exp1 ::= Exp1 "AND" Exp2 ;
+ENEAR.Exp1 ::= Exp1 "NEAR" Exp2 ;
+ENOT. Exp2 ::= "NOT" Exp2 ;
+ESTR. Exp3 ::= Ident ;
+
+coercions Exp 3;

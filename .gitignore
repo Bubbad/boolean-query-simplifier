@@ -1,0 +1,13 @@
+.idea/
+*.o
+*.hi
+LexLanguage.*
+ParLanguage.*
+TestLanguage*
+DocLanguage.*
+SkelLanguage.*
+PrintLanguage.*
+ErrM.*
+Makefile
+AbsLanguage.*
+Main
