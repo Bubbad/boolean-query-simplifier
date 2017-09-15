@@ -2,7 +2,7 @@
 
 ## Build & Run
 ```
-./buildAndRun.sh
+./build.sh
 echo "A OR B AND A" | ./Main
 ```
 
